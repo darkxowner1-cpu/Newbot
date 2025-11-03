@@ -22,11 +22,8 @@ A feature-rich WhatsApp Multi-Device Bot built with Baileys library.
 ## Deployment 🚀
 
 ### Heroku Deploy
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrXDeveloper/DarkX-Official)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/darkxowner1-cpu/Newbot)
 
 ### Termux Installation
 ```bash
-git clone https://github.com/MrXDeveloper/DarkX-Official
-cd DarkX-Official
-npm install
-npm start
+git clone [https://github.com/darkxowner1-cpu/Newbot](https://github.com/darkxowner1-cpu/Newbot)
