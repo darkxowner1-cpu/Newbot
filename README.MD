@@ -14,9 +14,7 @@
 
 2.  **GET SESSION ID**
 
-    <a href="URL_YA_KUUNGANISHA_PAIR"><img src="https://img.shields.io/badge/PAIR-red?style=for-the-badge&logo=whatsapp" alt="Get Session ID" /></a>
-    
-    *(Badilisha "URL_YA_KUUNGANISHA_PAIR" na kiungo halisi cha QR/Pairing unachotumia)*
+
 
 3.  **DEPLOY TO HEROKU**
 
