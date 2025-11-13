@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://files.catbox.moe/b9omrb.jpg" alt="SPACE-MD Banner" width="450"/>
-  <h1>SPACE-MD</h1>
+  <h1>DarkXOfficial</h1>
   <p>DarkX Official 🤖</p>
 </div>
 
